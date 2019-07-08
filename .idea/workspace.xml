@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8067b10c-02e1-4822-a86b-65c5f0831285" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_iter/learn_iter2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_iter/learn_iter2.py" afterDir="false" />
+    <list default="true" id="8067b10c-02e1-4822-a86b-65c5f0831285" name="Default Changelist" comment="new:学了线程的线程同步，condition处理复杂的线程同步">
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/test_variable_ken.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/collectors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/collectors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,23 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_sock_http.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py">
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -84,6 +82,12 @@
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat_server.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_sock_http.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/test_variable_ken.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_chat.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py" />
       </list>
     </option>
   </component>
@@ -101,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,15 +134,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/cmd/git.exe" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -158,73 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn_gil">
-    <configuration name="learn_chat_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat_client.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="learn_chat_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat_server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="learn_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_client.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.learn_thread_condation">
     <configuration name="learn_gil" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collectors" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learn_sock_http" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collectors" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,12 +198,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_sock_http.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learn_synchro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="collectors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learn_thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="collectors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learn_thread_condation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="collectors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.learn_thread_condation" />
+        <item itemvalue="Python.learn_synchro" />
         <item itemvalue="Python.learn_gil" />
-        <item itemvalue="Python.learn_sock_http" />
-        <item itemvalue="Python.learn_chat_client" />
-        <item itemvalue="Python.learn_chat_server" />
-        <item itemvalue="Python.learn_client" />
+        <item itemvalue="Python.learn_queue" />
+        <item itemvalue="Python.learn_thread" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +308,12 @@
       <workItem from="1562073506559" duration="8240000" />
       <workItem from="1562160157129" duration="3722000" />
       <workItem from="1562164163021" duration="2107000" />
-      <workItem from="1562246417402" duration="6802000" />
+      <workItem from="1562246417402" duration="7063000" />
+      <workItem from="1562338757651" duration="3092000" />
+      <workItem from="1562377347397" duration="943000" />
+      <workItem from="1562380875175" duration="1865000" />
+      <workItem from="1562595129578" duration="1729000" />
+      <workItem from="1562596874678" duration="4639000" />
     </task>
     <task id="LOCAL-00001" summary="new:新学习的python高级教程">
       <created>1562165889336</created>
@@ -308,22 +322,29 @@
       <option name="project" value="LOCAL" />
       <updated>1562165889336</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new:新学习的python迭代器，初级生成器，网络编程">
+      <created>1562255449139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562255449139</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45798000" />
+    <option name="totallyTimeSpent" value="58327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49596122" visible="true" weight="0.19989339" />
-      <window_info id="Structure" order="1" sideWeight="0.50403875" side_tool="true" weight="0.18710022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4878837" visible="true" weight="0.15138593" />
+      <window_info id="Structure" order="1" sideWeight="0.5121163" side_tool="true" visible="true" weight="0.15138593" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,13 +353,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3286334" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
@@ -388,7 +409,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new:新学习的python高级教程" />
-    <option name="LAST_COMMIT_MESSAGE" value="new:新学习的python高级教程" />
+    <MESSAGE value="new:新学习的python迭代器，初级生成器，网络编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="new:新学习的python迭代器，初级生成器，网络编程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,12 +431,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/collectors$learn_gil.coverage" NAME="learn_gil Coverage Results" MODIFIED="1562255178489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+    <SUITE FILE_PATH="coverage/collectors$learn_gil.coverage" NAME="learn_gil Coverage Results" MODIFIED="1562596828611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_sock_http.coverage" NAME="learn_sock_http Coverage Results" MODIFIED="1562254445379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$learn_array.coverage" NAME="learn_array Coverage Results" MODIFIED="1560697410973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_thread_condation.coverage" NAME="learn_thread_condation Coverage Results" MODIFIED="1562601104455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_dict_subclass.coverage" NAME="learn_dict_subclass Coverage Results" MODIFIED="1561190695726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_client.coverage" NAME="learn_client Coverage Results" MODIFIED="1562253082556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$learn_slice_object.coverage" NAME="learn_slice_object Coverage Results" MODIFIED="1560694536641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_queue.coverage" NAME="learn_queue Coverage Results" MODIFIED="1562381536495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_meta.coverage" NAME="learn_meta Coverage Results" MODIFIED="1562074957111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
     <SUITE FILE_PATH="coverage/collectors$learn_orm1.coverage" NAME="learn_orm1 Coverage Results" MODIFIED="1562163186042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
     <SUITE FILE_PATH="coverage/collectors$learn_iter.coverage" NAME="learn_iter Coverage Results" MODIFIED="1562164961472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
@@ -427,11 +451,14 @@
     <SUITE FILE_PATH="coverage/collectors$learn_gen.coverage" NAME="learn_gen Coverage Results" MODIFIED="1562247814893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_iter" />
     <SUITE FILE_PATH="coverage/collectors$learn_what_is_var.coverage" NAME="learn_what_is_var Coverage Results" MODIFIED="1561211592279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_iter2.coverage" NAME="learn_iter2 Coverage Results" MODIFIED="1562246789749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_iter" />
+    <SUITE FILE_PATH="coverage/collectors$learn_thread.coverage" NAME="learn_thread Coverage Results" MODIFIED="1562381092576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1561190949602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_chat.coverage" NAME="learn_chat Coverage Results" MODIFIED="1562253069006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$test_bb.coverage" NAME="test_bb Coverage Results" MODIFIED="1562162776041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$learn_synchro.coverage" NAME="learn_synchro Coverage Results" MODIFIED="1562598142786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_getattr_getattribute.coverage" NAME="learn_getattr_getattribute Coverage Results" MODIFIED="1561214208115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
     <SUITE FILE_PATH="coverage/collectors$learn_slice.coverage" NAME="learn_slice Coverage Results" MODIFIED="1560692449544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_thread_chat.coverage" NAME="learn_thread_chat Coverage Results" MODIFIED="1562341072062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_bisect.coverage" NAME="learn_bisect Coverage Results" MODIFIED="1560696972586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_server.coverage" NAME="learn_server Coverage Results" MODIFIED="1562253059130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
   </component>
@@ -684,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_sock_http.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="575">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -692,10 +719,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/python/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#86#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#52#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/test_variable_ken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        <state relative-caret-position="945">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="916" selection-start-line="916" selection-end-line="916" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
