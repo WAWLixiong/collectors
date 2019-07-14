@@ -5,8 +5,8 @@
 import threading
 import time
 from queue import Queue
-from lean_python.lixiong.learn_mutil import test_variable_ken
-# from lean_python.lixiong.learn_mutil.test_variable_ken import deail_url_list
+from lean_python.lixiong.learn_mutil_thread import test_variable_ken
+# from lean_python.lixiong.learn_mutil_thread.test_variable_ken import deail_url_list
 
 # detail_url_list = []
 # detail_url_lsit = detail_url_lsit #这样会提示未定义

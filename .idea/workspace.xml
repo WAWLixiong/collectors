@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8067b10c-02e1-4822-a86b-65c5f0831285" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_gil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_semaphore.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_semaphore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_synchro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_chat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_condation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/test_variable_ken.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/test_variable_ken.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,34 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py">
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_chat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_semaphore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-              <folding>
-                <element signature="e#41#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_concurent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#40#51#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -49,26 +34,55 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/thread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-756">
-              <caret line="125" column="53" selection-start-line="125" selection-start-column="53" selection-end-line="125" selection-end-column="53" />
+            <state relative-caret-position="656">
+              <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/_base.py">
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5832">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="378">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding>
+                <element signature="e#76#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1323">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/pool.pyi">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/multiprocessing/pool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6210">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -133,6 +147,8 @@
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_semaphore.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_concurent.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro2.py" />
       </list>
     </option>
   </component>
@@ -158,6 +174,24 @@
               <item name="collectors" type="b2602c69:ProjectViewProjectNode" />
               <item name="collectors" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="collectors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectors" type="462c0819:PsiDirectoryNode" />
+              <item name="lean_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collectors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectors" type="462c0819:PsiDirectoryNode" />
+              <item name="lean_python" type="462c0819:PsiDirectoryNode" />
+              <item name="lixiong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collectors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectors" type="462c0819:PsiDirectoryNode" />
+              <item name="lean_python" type="462c0819:PsiDirectoryNode" />
+              <item name="lixiong" type="462c0819:PsiDirectoryNode" />
+              <item name="learn_mutil_process" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +209,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -194,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn_concurent">
+  <component name="RunManager" selected="Python.learn_mutil_pro2">
     <configuration name="learn_concurent" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collectors" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learn_gil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn_mutil_pro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collectors" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,12 +259,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learn_mutil_pro2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="collectors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,28 +309,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_semaphore.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="learn_synchro" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.learn_mutil_pro2" />
+        <item itemvalue="Python.learn_mutil_pro" />
         <item itemvalue="Python.learn_concurent" />
         <item itemvalue="Python.learn_semaphore" />
         <item itemvalue="Python.learn_thread_condation" />
-        <item itemvalue="Python.learn_synchro" />
-        <item itemvalue="Python.learn_gil" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +375,8 @@
       <workItem from="1562380875175" duration="1865000" />
       <workItem from="1562595129578" duration="1729000" />
       <workItem from="1562596874678" duration="4729000" />
-      <workItem from="1562676201647" duration="6848000" />
+      <workItem from="1562676201647" duration="6983000" />
+      <workItem from="1562983506436" duration="10854000" />
     </task>
     <task id="LOCAL-00001" summary="new:新学习的python高级教程">
       <created>1562165889336</created>
@@ -364,21 +399,27 @@
       <option name="project" value="LOCAL" />
       <updated>1562601744232</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new:学习了线程同步的semaphore信号量，concurrent模块的&#10;ThreadExecutor，as_completed,wait,Future">
+      <created>1562685772750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562685772750</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65265000" />
+    <option name="totallyTimeSpent" value="76254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4878837" visible="true" weight="0.15298508" />
-      <window_info id="Structure" order="1" sideWeight="0.5121163" side_tool="true" weight="0.15298508" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47288504" visible="true" weight="0.15458423" />
+      <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -397,6 +438,7 @@
       <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.527115" visible="true" weight="0.15458423" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +488,8 @@
     <MESSAGE value="new:新学习的python高级教程" />
     <MESSAGE value="new:新学习的python迭代器，初级生成器，网络编程" />
     <MESSAGE value="new:学了线程的线程同步Lock,RLock，condition处理复杂的线程同步" />
-    <option name="LAST_COMMIT_MESSAGE" value="new:学了线程的线程同步Lock,RLock，condition处理复杂的线程同步" />
+    <MESSAGE value="new:学习了线程同步的semaphore信号量，concurrent模块的&#10;ThreadExecutor，as_completed,wait,Future" />
+    <option name="LAST_COMMIT_MESSAGE" value="new:学习了线程同步的semaphore信号量，concurrent模块的&#10;ThreadExecutor，as_completed,wait,Future" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -491,8 +534,10 @@
     <SUITE FILE_PATH="coverage/collectors$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1561190949602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_chat.coverage" NAME="learn_chat Coverage Results" MODIFIED="1562253069006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$test_bb.coverage" NAME="test_bb Coverage Results" MODIFIED="1562162776041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$learn_mutil_pro.coverage" NAME="learn_mutil_pro Coverage Results" MODIFIED="1563072478042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
     <SUITE FILE_PATH="coverage/collectors$learn_semaphore.coverage" NAME="learn_semaphore Coverage Results" MODIFIED="1562680416052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_synchro.coverage" NAME="learn_synchro Coverage Results" MODIFIED="1562598142786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+    <SUITE FILE_PATH="coverage/collectors$learn_mutil_pro2.coverage" NAME="learn_mutil_pro2 Coverage Results" MODIFIED="1563077210717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
     <SUITE FILE_PATH="coverage/collectors$learn_getattr_getattribute.coverage" NAME="learn_getattr_getattribute Coverage Results" MODIFIED="1561214208115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
     <SUITE FILE_PATH="coverage/collectors$learn_slice.coverage" NAME="learn_slice Coverage Results" MODIFIED="1560692449544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_thread_chat.coverage" NAME="learn_thread_chat Coverage Results" MODIFIED="1562341072062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
@@ -501,43 +546,6 @@
     <SUITE FILE_PATH="coverage/collectors$learn_server.coverage" NAME="learn_server Coverage Results" MODIFIED="1562253059130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1688476359/bisect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_slice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_attr_desc.ipynb" />
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_new_init.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_orm.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -742,7 +750,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="872">
           <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
@@ -752,7 +760,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
@@ -762,28 +770,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_chat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/test_variable_ken.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/test_variable_ken.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_gil.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_condation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
@@ -793,13 +794,6 @@
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/threading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="683">
@@ -807,44 +801,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_semaphore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-          <folding>
-            <element signature="e#41#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/__init__.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_semaphore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="n#!!doc" />
-            <element signature="e#755#996#0" />
-            <element signature="e#1020#1062#0" />
-            <element signature="e#1092#1496#0" />
-            <element signature="e#1186#1283#0" />
-            <element signature="e#1330#1424#0" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/_base.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_synchro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5832">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="359">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_concurent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="-106">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#40#51#0" expanded="true" />
@@ -852,17 +835,194 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/queue.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="656">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="609" column="6" selection-start-line="609" selection-start-column="6" selection-end-line="609" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#676#761#0" />
+            <element signature="e#791#936#0" />
+            <element signature="e#1066#1126#0" />
+            <element signature="e#1161#1201#0" />
+            <element signature="e#1234#1291#0" />
+            <element signature="e#1320#1729#0" />
+            <element signature="e#1418#1483#0" />
+            <element signature="e#1527#1563#0" />
+            <element signature="e#1610#1646#0" />
+            <element signature="e#1693#1729#0" />
+            <element signature="e#1770#2377#0" />
+            <element signature="e#1833#1912#0" />
+            <element signature="e#1956#2063#0" />
+            <element signature="e#1984#2063#0" />
+            <element signature="e#2110#2220#0" />
+            <element signature="e#2138#2220#0" />
+            <element signature="e#2267#2377#0" />
+            <element signature="e#2295#2377#0" />
+            <element signature="e#2421#2766#0" />
+            <element signature="e#2513#2564#0" />
+            <element signature="e#2611#2665#0" />
+            <element signature="e#2712#2766#0" />
+            <element signature="e#2808#3708#0" />
+            <element signature="e#2946#3103#0" />
+            <element signature="e#3153#3284#0" />
+            <element signature="e#3181#3284#0" />
+            <element signature="e#3328#3394#0" />
+            <element signature="e#3441#3592#0" />
+            <element signature="e#3639#3708#0" />
+            <element signature="e#3745#4110#0" />
+            <element signature="e#3862#3900#0" />
+            <element signature="e#3935#4002#0" />
+            <element signature="e#4043#4110#0" />
+            <element signature="e#4166#4845#0" />
+            <element signature="e#4337#4774#0" />
+            <element signature="e#4906#5565#0" />
+            <element signature="e#4906#5294#1" />
+            <element signature="e#5317#5565#0" />
+            <element signature="e#5608#7705#0" />
+            <element signature="e#5608#6236#1" />
+            <element signature="e#6390#6598#0" />
+            <element signature="e#6422#6501#0" />
+            <element signature="e#6646#7549#0" />
+            <element signature="e#6797#7549#0" />
+            <element signature="e#6887#7123#0" />
+            <element signature="e#6982#7123#0" />
+            <element signature="e#7216#7332#0" />
+            <element signature="e#7572#7705#0" />
+            <element signature="e#7645#7705#0" />
+            <element signature="e#7864#9788#0" />
+            <element signature="e#7864#8920#1" />
+            <element signature="e#8959#9577#0" />
+            <element signature="e#8970#9052#0" />
+            <element signature="e#9268#9423#0" />
+            <element signature="e#9275#9360#0" />
+            <element signature="e#9635#9691#0" />
+            <element signature="e#9909#10169#0" />
+            <element signature="e#10212#10403#0" />
+            <element signature="e#10262#10403#0" />
+            <element signature="e#10437#11277#0" />
+            <element signature="e#10471#11277#0" />
+            <element signature="e#10515#11097#0" />
+            <element signature="e#10555#10805#0" />
+            <element signature="e#10623#10804#0" />
+            <element signature="e#10848#11097#0" />
+            <element signature="e#10918#11096#0" />
+            <element signature="e#11164#11276#0" />
+            <element signature="e#11309#11502#1" />
+            <element signature="e#12211#12389#0" />
+            <element signature="e#12427#12526#0" />
+            <element signature="e#12573#13327#0" />
+            <element signature="e#12573#13128#1" />
+            <element signature="e#13171#13310#0" />
+            <element signature="e#13256#13310#0" />
+            <element signature="e#14517#15624#0" />
+            <element signature="e#14517#15120#1" />
+            <element signature="e#15164#15624#0" />
+            <element signature="e#15753#17431#0" />
+            <element signature="e#15753#16711#1" />
+            <element signature="e#16754#17431#0" />
+            <element signature="e#16799#17085#0" />
+            <element signature="e#16944#16999#0" />
+            <element signature="e#17143#17192#0" />
+            <element signature="e#17227#17431#0" />
+            <element signature="e#17475#17874#0" />
+            <element signature="e#17475#17620#1" />
+            <element signature="e#17663#17841#0" />
+            <element signature="e#17924#18334#0" />
+            <element signature="e#17924#18071#1" />
+            <element signature="e#18114#18301#0" />
+            <element signature="e#18490#18820#0" />
+            <element signature="e#18490#18784#1" />
+            <element signature="e#18892#20603#0" />
+            <element signature="e#18892#19791#1" />
+            <element signature="e#19945#20012#0" />
+            <element signature="e#20111#20570#0" />
+            <element signature="e#20132#20479#0" />
+            <element signature="e#20241#20479#0" />
+            <element signature="e#20517#20570#0" />
+            <element signature="e#20648#21062#0" />
+            <element signature="e#20648#21049#1" />
+            <element signature="e#21257#21345#0" />
+            <element signature="e#21257#21345#2" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/thread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756">
-          <caret line="125" column="53" selection-start-line="125" selection-start-column="53" selection-end-line="125" selection-end-column="53" />
+        <state relative-caret-position="128">
+          <caret line="107" column="37" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
+          <folding>
+            <element signature="e#192#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#76#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1313">
+          <caret line="564" column="16" selection-start-line="564" selection-start-column="16" selection-end-line="564" selection-end-column="16" />
+          <folding>
+            <element signature="e#2508#2521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/pool.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6210">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1323">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
