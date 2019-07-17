@@ -5,6 +5,9 @@
 #condition有2层锁，一把底层所会在线程调用了wait方法时候释放，
 #上层锁会在每次调用wait的时候分配一把并放入condition的等待队列中，等待notify方法的唤醒
 
+# condition 是在Lock与Rlock的基础上实现的，
+# semaphore 是在condition的实际上实现的
+
 # from threading import Condition
 import threading
 

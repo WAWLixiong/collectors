@@ -1,3 +1,6 @@
+#对于多线程编程，可以学习concurrent设计的管理模式，管理自己的线程
+
+
 # 底层包，编写多进程，多线程变得异常容易，对这个包的理解，让我更容易理解协程
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed, wait
