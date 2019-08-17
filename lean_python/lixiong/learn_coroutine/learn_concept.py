@@ -10,11 +10,14 @@ def gen_fun():
     yield 3
     return 4
 
+
 if __name__ == '__main__':
     gen = gen_fun()
     html = 'zzlion'
     #send方法启动生成器，程序进程到下一个yield方法处
     # 并传递值到赋值语句的右边
-    gen.send(None)
-    gen.send(html)
+    html = gen.send(None)
+    value = gen.send(html)
+    print(html)
+    print(value)
 
