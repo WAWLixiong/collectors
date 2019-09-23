@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8067b10c-02e1-4822-a86b-65c5f0831285" name="Default Changelist" comment="">
+    <list default="true" id="8067b10c-02e1-4822-a86b-65c5f0831285" name="Default Changelist" comment="new:学习了flask的一些简单使用">
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/abort/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/cookie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/development/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/development/cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/exception/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/blueprint001/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/blueprint002/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/blueprint003/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/goods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_mail/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_migrate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_script/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/hook/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/json_response/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/macro_input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_content/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/learn_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/upload_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/response_obj/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/session/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/xss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/xss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/lixiong/test_pip_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lean_python/test/test_pymysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/collectors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/collectors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_close.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_close.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/learn_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/learn_concept.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/yield_from_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/yield_from_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_pattern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_design_pattern/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_pattern/learn_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_design_pattern/learn_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,43 +62,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_throw.py">
+        <entry file="file://$PROJECT_DIR$/lean_python/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/__init__.py">
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/abort/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/config.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/first_program.py">
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/session/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="128" column="31" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
+            <state>
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/flask/helpers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3076">
-              <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/development/cmd">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -65,6 +91,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -81,46 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_set.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_what_is_var.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_getattr_getattribute.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_attr_desc.ipynb" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_attr_desc.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_new_init.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_orm.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_meta.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/test_bb.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_orm1.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_iter.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_iter/learn_iter2.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_iter/learn_gen.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_iter/learn_open.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_client.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_server.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat_client.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat_server.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_sock_http.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_gil.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/test_variable_ken.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_chat.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_queue.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_synchro.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_thread_condation.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil/learn_semaphore.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro2.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_connection.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_condation.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_concurent.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_yield/select_test.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_yield/learn_concept.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_yield/learn_io.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_io/learn_io_非阻塞.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_io/learn_select_http.py" />
-        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/test_dict.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_mysql/learn_connect.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_pattern/learn_factory.py" />
         <option value="$PROJECT_DIR$/pylint.conf" />
@@ -132,6 +119,46 @@
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_close.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_throw.py" />
         <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/first_program.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request对象/index.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request对象/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/test_pip_install.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request对象/upload_file.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request对象/learn_with.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/learn_with.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/abort/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/exception/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/response_obj/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/json_response/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/cookie/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/session/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_content/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/hook/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_script/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/css.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/templates/xss.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/xss.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/xss.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/index.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/register.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/templates/register.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/macro_input.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/index.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/templates/index.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/test/test_pymysql.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql/model.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_migrate/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_mail/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/000_blueprint/goods.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/000_blueprint/main.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/main.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/templates/index.html" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/blueprint001/__init__.py" />
+        <option value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/development/cmd" />
       </list>
     </option>
   </component>
@@ -182,6 +209,15 @@
               <item name="learn_flask" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="collectors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectors" type="462c0819:PsiDirectoryNode" />
+              <item name="lean_python" type="462c0819:PsiDirectoryNode" />
+              <item name="lixiong" type="462c0819:PsiDirectoryNode" />
+              <item name="learn_flask" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="development" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -190,6 +226,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -200,10 +237,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\collectors\lean_python\lixiong\learn_flask\study\wtf_form_script\templates" />
+      <recent name="F:\collectors\lean_python\lixiong\learn_flask\study\template" />
+      <recent name="F:\collectors\lean_python\lixiong\learn_flask\study\templates" />
       <recent name="F:\collectors\lean_python\lixiong\learn_io" />
       <recent name="F:\collectors\lean_python\lixiong\learn_iter" />
     </key>
@@ -220,8 +260,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.first_program">
-    <configuration name="first_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collectors" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,100 +269,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/first_program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gen_close" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_close.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gen_throw" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_throw.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="learn_factory" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_pattern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_pattern/learn_factory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yield_from_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="collectors" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/yield_from_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lean_python/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,11 +285,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.first_program" />
-        <item itemvalue="Python.gen_throw" />
-        <item itemvalue="Python.gen_close" />
-        <item itemvalue="Python.yield_from_test" />
-        <item itemvalue="Python.learn_factory" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +335,19 @@
       <workItem from="1566313069523" duration="3409000" />
       <workItem from="1567520339232" duration="6159000" />
       <workItem from="1568208186083" duration="747000" />
-      <workItem from="1568210299552" duration="4071000" />
+      <workItem from="1568210299552" duration="4582000" />
+      <workItem from="1568814064108" duration="5198000" />
+      <workItem from="1568820431232" duration="577000" />
+      <workItem from="1568821085738" duration="2004000" />
+      <workItem from="1568898664927" duration="10133000" />
+      <workItem from="1568909096348" duration="769000" />
+      <workItem from="1569024015408" duration="5541000" />
+      <workItem from="1569031235401" duration="2469000" />
+      <workItem from="1569033723090" duration="6766000" />
+      <workItem from="1569056831540" duration="12584000" />
+      <workItem from="1569115501500" duration="6246000" />
+      <workItem from="1569246797519" duration="169000" />
+      <workItem from="1569246982743" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="new:新学习的python高级教程">
       <created>1562165889336</created>
@@ -445,17 +405,48 @@
       <option name="project" value="LOCAL" />
       <updated>1566055814026</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new:学习了flask的一些简单使用">
+      <created>1568214724223</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568214724223</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133162000" />
+    <option name="totallyTimeSpent" value="188866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47288504" visible="true" weight="0.18550107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47288504" visible="true" weight="0.31449893" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.31310943" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.527115" weight="0.15458423" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47288504" weight="0.20042644" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
@@ -469,7 +460,7 @@
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32827735" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,7 +469,7 @@
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Structure" order="6" sideWeight="0.527115" weight="0.15458423" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -533,7 +524,8 @@
     <MESSAGE value="new:学习了select，poll，epoll的概念&#10;学习了阻塞式的http请求；&#10;学习了select实现的io多路复用http请求" />
     <MESSAGE value="new:学习select多路复用编程&#10;coroutine概念" />
     <MESSAGE value="new:学习了工厂模式，新增了pylint检测代码质量，待优化配置项" />
-    <option name="LAST_COMMIT_MESSAGE" value="new:学习了工厂模式，新增了pylint检测代码质量，待优化配置项" />
+    <MESSAGE value="new:学习了flask的一些简单使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="new:学习了flask的一些简单使用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -555,486 +547,507 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/collectors$learn_gil.coverage" NAME="learn_gil Coverage Results" MODIFIED="1562596828611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-    <SUITE FILE_PATH="coverage/collectors$learn_sock_http.coverage" NAME="learn_sock_http Coverage Results" MODIFIED="1562254445379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
-    <SUITE FILE_PATH="coverage/collectors$learn_array.coverage" NAME="learn_array Coverage Results" MODIFIED="1560697410973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1569034412240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script" />
     <SUITE FILE_PATH="coverage/collectors$learn_thread_condation.coverage" NAME="learn_thread_condation Coverage Results" MODIFIED="1562601104455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-    <SUITE FILE_PATH="coverage/collectors$learn_dict_subclass.coverage" NAME="learn_dict_subclass Coverage Results" MODIFIED="1561190695726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
-    <SUITE FILE_PATH="coverage/collectors$learn_client.coverage" NAME="learn_client Coverage Results" MODIFIED="1565881989837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$learn_slice_object.coverage" NAME="learn_slice_object Coverage Results" MODIFIED="1560694536641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_queue.coverage" NAME="learn_queue Coverage Results" MODIFIED="1562381536495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-    <SUITE FILE_PATH="coverage/collectors$learn_meta.coverage" NAME="learn_meta Coverage Results" MODIFIED="1562074957111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
     <SUITE FILE_PATH="coverage/collectors$learn_orm1.coverage" NAME="learn_orm1 Coverage Results" MODIFIED="1562163186042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
-    <SUITE FILE_PATH="coverage/collectors$learn_iter.coverage" NAME="learn_iter Coverage Results" MODIFIED="1562164961472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
-    <SUITE FILE_PATH="coverage/collectors$yield_from_test.coverage" NAME="yield_from_test Coverage Results" MODIFIED="1567521520045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
+    <SUITE FILE_PATH="coverage/collectors$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1569247764989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python" />
     <SUITE FILE_PATH="coverage/collectors$test.coverage" NAME="test Coverage Results" MODIFIED="1560691307046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/collectors$learn_new_init.coverage" NAME="learn_new_init Coverage Results" MODIFIED="1561217795056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
-    <SUITE FILE_PATH="coverage/collectors$learn_connect.coverage" NAME="learn_connect Coverage Results" MODIFIED="1564580993783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mysql" />
-    <SUITE FILE_PATH="coverage/collectors$learn_dict.coverage" NAME="learn_dict Coverage Results" MODIFIED="1561184809859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
-    <SUITE FILE_PATH="coverage/collectors$learn_chat_server.coverage" NAME="learn_chat_server Coverage Results" MODIFIED="1562253451165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$first_program.coverage" NAME="first_program Coverage Results" MODIFIED="1568214446067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study" />
     <SUITE FILE_PATH="coverage/collectors$learn_concept.coverage" NAME="learn_concept Coverage Results" MODIFIED="1563802449466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
     <SUITE FILE_PATH="coverage/collectors$learn_attr_desc.coverage" NAME="learn_attr_desc Coverage Results" MODIFIED="1561217264813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$xss__1_.coverage" NAME="xss (1) Coverage Results" MODIFIED="1569029081748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template" />
+    <SUITE FILE_PATH="coverage/collectors$learn_with__2_.coverage" NAME="learn_with (2) Coverage Results" MODIFIED="1568900281254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj" />
+    <SUITE FILE_PATH="coverage/collectors$test_dict.coverage" NAME="test_dict Coverage Results" MODIFIED="1563591652377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
+    <SUITE FILE_PATH="coverage/collectors$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1561190949602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1569030001407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template" />
+    <SUITE FILE_PATH="coverage/collectors$gen_throw.coverage" NAME="gen_throw Coverage Results" MODIFIED="1567523234077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
+    <SUITE FILE_PATH="coverage/collectors$learn_chat.coverage" NAME="learn_chat Coverage Results" MODIFIED="1562253069006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
+    <SUITE FILE_PATH="coverage/collectors$learn_synchro.coverage" NAME="learn_synchro Coverage Results" MODIFIED="1562598142786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+    <SUITE FILE_PATH="coverage/collectors$learn_io.coverage" NAME="learn_io Coverage Results" MODIFIED="1563377196124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_yield" />
+    <SUITE FILE_PATH="coverage/collectors$learn_getattr_getattribute.coverage" NAME="learn_getattr_getattribute Coverage Results" MODIFIED="1561214208115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$test_pymysql.coverage" NAME="test_pymysql Coverage Results" MODIFIED="1569070614080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/test" />
+    <SUITE FILE_PATH="coverage/collectors$learn_thread_chat.coverage" NAME="learn_thread_chat Coverage Results" MODIFIED="1562341072062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
+    <SUITE FILE_PATH="coverage/collectors$learn_concurent.coverage" NAME="learn_concurent Coverage Results" MODIFIED="1562684087679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent" />
+    <SUITE FILE_PATH="coverage/collectors$learn_bisect.coverage" NAME="learn_bisect Coverage Results" MODIFIED="1560696972586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_factory.coverage" NAME="learn_factory Coverage Results" MODIFIED="1566054634826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_pattern" />
+    <SUITE FILE_PATH="coverage/collectors$xss.coverage" NAME="xss Coverage Results" MODIFIED="1569028252141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/templates" />
+    <SUITE FILE_PATH="coverage/collectors$learn_server.coverage" NAME="learn_server Coverage Results" MODIFIED="1562253059130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
+    <SUITE FILE_PATH="coverage/collectors$learn_sock_http.coverage" NAME="learn_sock_http Coverage Results" MODIFIED="1562254445379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
+    <SUITE FILE_PATH="coverage/collectors$learn_array.coverage" NAME="learn_array Coverage Results" MODIFIED="1560697410973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_dict_subclass.coverage" NAME="learn_dict_subclass Coverage Results" MODIFIED="1561190695726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_with__1_.coverage" NAME="learn_with (1) Coverage Results" MODIFIED="1568899304557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request_obj" />
+    <SUITE FILE_PATH="coverage/collectors$upload_file.coverage" NAME="upload_file Coverage Results" MODIFIED="1568819216246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request对象" />
+    <SUITE FILE_PATH="coverage/collectors$learn_client.coverage" NAME="learn_client Coverage Results" MODIFIED="1565881989837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
+    <SUITE FILE_PATH="coverage/collectors$__init____5_.coverage" NAME="__init__ (5) Coverage Results" MODIFIED="1568904574516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/session" />
+    <SUITE FILE_PATH="coverage/collectors$model.coverage" NAME="model Coverage Results" MODIFIED="1569076231596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql" />
+    <SUITE FILE_PATH="coverage/collectors$learn_meta.coverage" NAME="learn_meta Coverage Results" MODIFIED="1562074957111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1569037412589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash" />
+    <SUITE FILE_PATH="coverage/collectors$learn_with.coverage" NAME="learn_with Coverage Results" MODIFIED="1568899136943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/02request对象" />
+    <SUITE FILE_PATH="coverage/collectors$learn_iter.coverage" NAME="learn_iter Coverage Results" MODIFIED="1562164961472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$yield_from_test.coverage" NAME="yield_from_test Coverage Results" MODIFIED="1567521520045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
+    <SUITE FILE_PATH="coverage/collectors$learn_new_init.coverage" NAME="learn_new_init Coverage Results" MODIFIED="1561217795056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$learn_connect.coverage" NAME="learn_connect Coverage Results" MODIFIED="1564580993783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mysql" />
+    <SUITE FILE_PATH="coverage/collectors$main.coverage" NAME="main Coverage Results" MODIFIED="1569117845003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/000_blueprint" />
+    <SUITE FILE_PATH="coverage/collectors$learn_dict.coverage" NAME="learn_dict Coverage Results" MODIFIED="1561184809859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
+    <SUITE FILE_PATH="coverage/collectors$learn_chat_server.coverage" NAME="learn_chat_server Coverage Results" MODIFIED="1562253451165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$learn_chat_client.coverage" NAME="learn_chat_client Coverage Results" MODIFIED="1562253454639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$learn_gen.coverage" NAME="learn_gen Coverage Results" MODIFIED="1562247814893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_iter" />
     <SUITE FILE_PATH="coverage/collectors$learn_what_is_var.coverage" NAME="learn_what_is_var Coverage Results" MODIFIED="1561211592279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_iter2.coverage" NAME="learn_iter2 Coverage Results" MODIFIED="1562246789749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_iter" />
     <SUITE FILE_PATH="coverage/collectors$learn_thread.coverage" NAME="learn_thread Coverage Results" MODIFIED="1562381092576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-    <SUITE FILE_PATH="coverage/collectors$test_dict.coverage" NAME="test_dict Coverage Results" MODIFIED="1563591652377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
-    <SUITE FILE_PATH="coverage/collectors$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1561190949602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
-    <SUITE FILE_PATH="coverage/collectors$gen_throw.coverage" NAME="gen_throw Coverage Results" MODIFIED="1567523234077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
+    <SUITE FILE_PATH="coverage/collectors$__init____4_.coverage" NAME="__init__ (4) Coverage Results" MODIFIED="1569056047359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql" />
     <SUITE FILE_PATH="coverage/collectors$learn_connection.coverage" NAME="learn_connection Coverage Results" MODIFIED="1563290905242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
-    <SUITE FILE_PATH="coverage/collectors$learn_chat.coverage" NAME="learn_chat Coverage Results" MODIFIED="1562253069006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
     <SUITE FILE_PATH="coverage/collectors$learn_select_http.coverage" NAME="learn_select_http Coverage Results" MODIFIED="1563459177679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_io" />
     <SUITE FILE_PATH="coverage/collectors$test_bb.coverage" NAME="test_bb Coverage Results" MODIFIED="1562162776041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
     <SUITE FILE_PATH="coverage/collectors$gen_close.coverage" NAME="gen_close Coverage Results" MODIFIED="1567522904106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_coroutine" />
     <SUITE FILE_PATH="coverage/collectors$learn_mutil_pro.coverage" NAME="learn_mutil_pro Coverage Results" MODIFIED="1563072478042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
     <SUITE FILE_PATH="coverage/collectors$learn_semaphore.coverage" NAME="learn_semaphore Coverage Results" MODIFIED="1562680416052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-    <SUITE FILE_PATH="coverage/collectors$learn_synchro.coverage" NAME="learn_synchro Coverage Results" MODIFIED="1562598142786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
     <SUITE FILE_PATH="coverage/collectors$learn_mutil_pro2.coverage" NAME="learn_mutil_pro2 Coverage Results" MODIFIED="1563077210717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process" />
-    <SUITE FILE_PATH="coverage/collectors$learn_io.coverage" NAME="learn_io Coverage Results" MODIFIED="1563377196124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_yield" />
-    <SUITE FILE_PATH="coverage/collectors$learn_getattr_getattribute.coverage" NAME="learn_getattr_getattribute Coverage Results" MODIFIED="1561214208115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/type_programmer" />
+    <SUITE FILE_PATH="coverage/collectors$test_pip_install.coverage" NAME="test_pip_install Coverage Results" MODIFIED="1568821147697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
     <SUITE FILE_PATH="coverage/collectors$learn_slice.coverage" NAME="learn_slice Coverage Results" MODIFIED="1560692449544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
-    <SUITE FILE_PATH="coverage/collectors$learn_thread_chat.coverage" NAME="learn_thread_chat Coverage Results" MODIFIED="1562341072062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_mutil" />
-    <SUITE FILE_PATH="coverage/collectors$learn_concurent.coverage" NAME="learn_concurent Coverage Results" MODIFIED="1562684087679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_concurrent" />
-    <SUITE FILE_PATH="coverage/collectors$learn_bisect.coverage" NAME="learn_bisect Coverage Results" MODIFIED="1560696972586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong" />
-    <SUITE FILE_PATH="coverage/collectors$learn_factory.coverage" NAME="learn_factory Coverage Results" MODIFIED="1566054634826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_pattern" />
-    <SUITE FILE_PATH="coverage/collectors$learn_server.coverage" NAME="learn_server Coverage Results" MODIFIED="1562253059130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_python/lixiong/learn_net_code" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_gil.py">
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/werkzeug/wrappers/base_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="324">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/threading.py">
+    <entry file="file://$PROJECT_DIR$/pylint.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="399" column="25" lean-forward="true" selection-start-line="399" selection-start-column="25" selection-end-line="399" selection-end-column="25" />
+        <state relative-caret-position="-120">
+          <caret line="257" column="22" selection-start-line="257" selection-start-column="22" selection-end-line="257" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/__init__.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/test_pip_install.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_semaphore.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/upload_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_synchro.py">
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/traceback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/learn_with.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/queue.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="609" column="6" selection-start-line="609" selection-start-column="6" selection-end-line="609" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" />
-            <element signature="e#676#761#0" />
-            <element signature="e#791#936#0" />
-            <element signature="e#1066#1126#0" />
-            <element signature="e#1161#1201#0" />
-            <element signature="e#1234#1291#0" />
-            <element signature="e#1320#1729#0" />
-            <element signature="e#1418#1483#0" />
-            <element signature="e#1527#1563#0" />
-            <element signature="e#1610#1646#0" />
-            <element signature="e#1693#1729#0" />
-            <element signature="e#1770#2377#0" />
-            <element signature="e#1833#1912#0" />
-            <element signature="e#1956#2063#0" />
-            <element signature="e#1984#2063#0" />
-            <element signature="e#2110#2220#0" />
-            <element signature="e#2138#2220#0" />
-            <element signature="e#2267#2377#0" />
-            <element signature="e#2295#2377#0" />
-            <element signature="e#2421#2766#0" />
-            <element signature="e#2513#2564#0" />
-            <element signature="e#2611#2665#0" />
-            <element signature="e#2712#2766#0" />
-            <element signature="e#2808#3708#0" />
-            <element signature="e#2946#3103#0" />
-            <element signature="e#3153#3284#0" />
-            <element signature="e#3181#3284#0" />
-            <element signature="e#3328#3394#0" />
-            <element signature="e#3441#3592#0" />
-            <element signature="e#3639#3708#0" />
-            <element signature="e#3745#4110#0" />
-            <element signature="e#3862#3900#0" />
-            <element signature="e#3935#4002#0" />
-            <element signature="e#4043#4110#0" />
-            <element signature="e#4166#4845#0" />
-            <element signature="e#4337#4774#0" />
-            <element signature="e#4906#5565#0" />
-            <element signature="e#4906#5294#1" />
-            <element signature="e#5317#5565#0" />
-            <element signature="e#5608#7705#0" />
-            <element signature="e#5608#6236#1" />
-            <element signature="e#6390#6598#0" />
-            <element signature="e#6422#6501#0" />
-            <element signature="e#6646#7549#0" />
-            <element signature="e#6797#7549#0" />
-            <element signature="e#6887#7123#0" />
-            <element signature="e#6982#7123#0" />
-            <element signature="e#7216#7332#0" />
-            <element signature="e#7572#7705#0" />
-            <element signature="e#7645#7705#0" />
-            <element signature="e#7864#9788#0" />
-            <element signature="e#7864#8920#1" />
-            <element signature="e#8959#9577#0" />
-            <element signature="e#8970#9052#0" />
-            <element signature="e#9268#9423#0" />
-            <element signature="e#9275#9360#0" />
-            <element signature="e#9635#9691#0" />
-            <element signature="e#9909#10169#0" />
-            <element signature="e#10212#10403#0" />
-            <element signature="e#10262#10403#0" />
-            <element signature="e#10437#11277#0" />
-            <element signature="e#10471#11277#0" />
-            <element signature="e#10515#11097#0" />
-            <element signature="e#10555#10805#0" />
-            <element signature="e#10623#10804#0" />
-            <element signature="e#10848#11097#0" />
-            <element signature="e#10918#11096#0" />
-            <element signature="e#11164#11276#0" />
-            <element signature="e#11309#11502#1" />
-            <element signature="e#12211#12389#0" />
-            <element signature="e#12427#12526#0" />
-            <element signature="e#12573#13327#0" />
-            <element signature="e#12573#13128#1" />
-            <element signature="e#13171#13310#0" />
-            <element signature="e#13256#13310#0" />
-            <element signature="e#14517#15624#0" />
-            <element signature="e#14517#15120#1" />
-            <element signature="e#15164#15624#0" />
-            <element signature="e#15753#17431#0" />
-            <element signature="e#15753#16711#1" />
-            <element signature="e#16754#17431#0" />
-            <element signature="e#16799#17085#0" />
-            <element signature="e#16944#16999#0" />
-            <element signature="e#17143#17192#0" />
-            <element signature="e#17227#17431#0" />
-            <element signature="e#17475#17874#0" />
-            <element signature="e#17475#17620#1" />
-            <element signature="e#17663#17841#0" />
-            <element signature="e#17924#18334#0" />
-            <element signature="e#17924#18071#1" />
-            <element signature="e#18114#18301#0" />
-            <element signature="e#18490#18820#0" />
-            <element signature="e#18490#18784#1" />
-            <element signature="e#18892#20603#0" />
-            <element signature="e#18892#19791#1" />
-            <element signature="e#19945#20012#0" />
-            <element signature="e#20111#20570#0" />
-            <element signature="e#20132#20479#0" />
-            <element signature="e#20241#20479#0" />
-            <element signature="e#20517#20570#0" />
-            <element signature="e#20648#21062#0" />
-            <element signature="e#20648#21049#1" />
-            <element signature="e#21257#21345#0" />
-            <element signature="e#21257#21345#2" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="107" column="37" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
-          <folding>
-            <element signature="e#192#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1313">
-          <caret line="564" column="16" selection-start-line="564" selection-start-column="16" selection-end-line="564" selection-end-column="16" />
-          <folding>
-            <element signature="e#2508#2521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/concurrent/futures/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6210">
-          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/pool.pyi">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/response_obj/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_mutil_pro.py">
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/flask/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="-7741">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/json_response/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding>
-            <element signature="e#76#87#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_chat.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/exception/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/werkzeug/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19826">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/cookie/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/hook/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_content/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#140#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="137" column="67" selection-start-line="137" selection-start-column="67" selection-end-line="137" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/request_obj/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/wtforms/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/wtforms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/wtforms/fields/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/wtforms/validators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#723#774#0" />
+            <element signature="e#814#1147#0" />
+            <element signature="e#814#1035#1" />
+            <element signature="e#1097#1147#0" />
+            <element signature="e#1177#1496#1" />
+            <element signature="e#1658#2228#0" />
+            <element signature="e#1872#2228#0" />
+            <element signature="e#1876#2031#0" />
+            <element signature="e#2257#3987#0" />
+            <element signature="e#2257#2786#1" />
+            <element signature="e#2849#3083#0" />
+            <element signature="e#3130#3987#0" />
+            <element signature="e#3242#3987#0" />
+            <element signature="e#3313#3898#0" />
+            <element signature="e#3352#3532#0" />
+            <element signature="e#3590#3770#0" />
+            <element signature="e#4021#5661#0" />
+            <element signature="e#4021#4689#1" />
+            <element signature="e#4756#4824#0" />
+            <element signature="e#4871#5661#0" />
+            <element signature="e#5036#5661#0" />
+            <element signature="e#5107#5582#0" />
+            <element signature="e#5107#5166#0" />
+            <element signature="e#5692#6464#0" />
+            <element signature="e#5692#6015#1" />
+            <element signature="e#6105#6235#0" />
+            <element signature="e#6282#6464#0" />
+            <element signature="e#6409#6464#0" />
+            <element signature="e#6499#7947#0" />
+            <element signature="e#6499#7475#1" />
+            <element signature="e#7556#7578#0" />
+            <element signature="e#7625#7947#0" />
+            <element signature="e#7723#7947#0" />
+            <element signature="e#7984#8391#0" />
+            <element signature="e#7984#8145#1" />
+            <element signature="e#8195#8391#0" />
+            <element signature="e#8427#9110#0" />
+            <element signature="e#8427#8676#1" />
+            <element signature="e#8757#8779#0" />
+            <element signature="e#8826#9110#0" />
+            <element signature="e#8886#9110#0" />
+            <element signature="e#9139#10125#0" />
+            <element signature="e#9139#9534#1" />
+            <element signature="e#9597#9735#0" />
+            <element signature="e#9796#10125#0" />
+            <element signature="e#9873#10104#0" />
+            <element signature="e#9909#10060#0" />
+            <element signature="e#10153#11389#0" />
+            <element signature="e#10153#10456#1" />
+            <element signature="e#10495#10668#0" />
+            <element signature="e#10757#10872#0" />
+            <element signature="e#10919#11389#0" />
+            <element signature="e#11421#13328#0" />
+            <element signature="e#11421#11705#1" />
+            <element signature="e#11775#11982#0" />
+            <element signature="e#12029#12384#0" />
+            <element signature="e#12224#12384#0" />
+            <element signature="e#12443#12668#0" />
+            <element signature="e#12544#12647#0" />
+            <element signature="e#12727#13328#0" />
+            <element signature="e#12866#13169#0" />
+            <element signature="e#12944#13169#0" />
+            <element signature="e#13101#13169#0" />
+            <element signature="e#13361#13870#0" />
+            <element signature="e#13361#13484#1" />
+            <element signature="e#13531#13649#0" />
+            <element signature="e#13696#13870#0" />
+            <element signature="e#13896#14989#0" />
+            <element signature="e#13896#14344#1" />
+            <element signature="e#14409#14672#0" />
+            <element signature="e#14719#14989#0" />
+            <element signature="e#15016#15468#0" />
+            <element signature="e#15016#15132#1" />
+            <element signature="e#15179#15201#0" />
+            <element signature="e#15248#15468#0" />
+            <element signature="e#15496#16578#0" />
+            <element signature="e#15496#15859#1" />
+            <element signature="e#15937#16135#0" />
+            <element signature="e#16182#16462#0" />
+            <element signature="e#16228#16462#0" />
+            <element signature="e#16532#16578#0" />
+            <element signature="e#16607#17681#0" />
+            <element signature="e#16607#16974#1" />
+            <element signature="e#17052#17250#0" />
+            <element signature="e#17297#17575#0" />
+            <element signature="e#17339#17575#0" />
+            <element signature="e#17640#17681#0" />
+            <element signature="e#17722#19145#0" />
+            <element signature="e#17722#17865#1" />
+            <element signature="e#18102#18165#0" />
+            <element signature="e#18209#19145#0" />
+            <element signature="e#18239#18335#0" />
+            <element signature="e#18857#18996#0" />
+            <element signature="e#19039#19124#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/xss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/template/templates/xss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/macro_input.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/multiprocessing/managers.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="474" column="14" selection-start-line="474" selection-start-column="14" selection-end-line="474" selection-end-column="14" />
+        <state relative-caret-position="270">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_thread/learn_thread_condation.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flash/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-804561370/select.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/macro/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        <state relative-caret-position="359">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_io/learn_io_非阻塞.py">
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/sqlalchemy/sql/sqltypes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/-1506120976/selectors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="70" column="2" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_yield/select_test.py" />
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_sock_http.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mutil_process/learn_connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="-10663">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1747">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        <state relative-caret-position="-2316">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_mysql/learn_connect.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/test/test_pymysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/test_dict.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/wtf_form_script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_array.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="162">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_client.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_set.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_net_code/learn_chat_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="-265">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#40#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_design_pattern/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylint.conf">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/mysql/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="257" column="22" selection-start-line="257" selection-start-column="22" selection-end-line="257" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_design_pattern/learn_factory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="272">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#38#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/__init__.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_migrate/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="66" column="58" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+          <folding>
+            <element signature="e#39#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_mail/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#40#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/goods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_io/learn_select_http.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/blueprint001/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_Future.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/type_programmer/learn_getattr_getattribute.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <element signature="e#39#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/flask_blueprint/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lean_python/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_concurrent/learn_concurent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_yield/learn_concept.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/yield_from_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_close.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/development/cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/learn_concept.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_coroutine/gen_throw.py">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/abort/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/config.cfg">
+    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/session/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/werkzeug/routing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="804" column="33" selection-start-line="804" selection-start-column="33" selection-end-line="804" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-804561370/1104546397/flask/helpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3076">
-          <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_python/lixiong/learn_flask/study/first_program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="128" column="31" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

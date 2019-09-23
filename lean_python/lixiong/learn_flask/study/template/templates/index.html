@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>name = {{name}}</p>
+    <p>age = {{age}}</p>
+    <p>city = {{my_dict['city']}}</p>
+    <p>city = {{my_dict.city}}</p>
+    <p>my_list = {{my_list}}</p>
+    <p>my_list = {{my_list[my_int]}}</p>
+    <p>my_list[0] + my_list[1] = {{my_list[0] + my_list[1]}}</p>
+    <!--  django 中不不支持直接加法操作-->
+    <!--  <p>{{'python'}} + {{'world'}}</p>, -->
+    <p>{{'python' + 'world'}}</p>
+    <!--  过滤器 trim upper lower capitalize title -->
+    <!--  过滤器 first last length sum sort -->
+    <!--  safe 防止脚本注入攻击 -->
+    <!--  自定义过滤器与内置过滤器重名，会覆盖内置 -->
+    <p>--{{' flask world ' | upper | trim}}---</p>
+    <p> {{my_list | li2}}</p>
+    <p> {{my_list | li3}}</p>
+
+
+
+</body>
+</html>
