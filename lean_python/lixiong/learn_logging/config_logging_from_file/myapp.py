@@ -2,7 +2,7 @@
 # coding:utf-8
 
 import logging
-from lean_python.lixiong.learn_logging.test import mylib
+from lean_python.lixiong.learn_logging.config_logging_from_file import mylib
 
 
 def main():
