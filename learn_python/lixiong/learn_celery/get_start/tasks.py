@@ -26,7 +26,7 @@ class MyCelery(Celery):
 
 # @app.task(ignore_result=True) # 不需要返回结果
 # @app.task
-@app.task(bind=True, base=DebugTask, queue='help me')
+@app.task(bind=True, base=DebugTask)
 def add(self, a, b):
     print(self.request.id)
     logger.info(self.request.id)
