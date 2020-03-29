@@ -2,7 +2,7 @@
 mq_user = 'zzlion'
 mq_password = 'lixiong6660'
 # mq_host = '47.96.156.169'
-mq_host = 'localhost'
+mq_host = 'www.zzlion.online' # caution 这里阿里云的服务器遇到个大坑，换成内外网都不行，但是单独测试mq连通性没问题
 mq_port = 5672
 mq_virtual_host = '/'
 
@@ -21,10 +21,10 @@ enable_utc = True
     # 'learn_python.lixiong.learn_celery.get_start.tasks.add': {'queue': 'hipri'},
 # }
 
-task_routes = ([
-    ('learn_python.lixiong.learn_celery.get_start.tasks.add', {
-        'queue': ''
-    }),
-    (),
-    (),
-])
+# task_routes = ([
+#     ('learn_python.lixiong.learn_celery.get_start.tasks.add', {
+#         'queue': ''
+#     }),
+#     (),
+#     (),
+# ])
