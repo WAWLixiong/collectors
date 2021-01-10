@@ -7,7 +7,7 @@ import time
 import os
 
 # read initial config file
-logging.config.fileConfig('logging.conf')
+logging.config.fileConfig('logging.json')
 
 # create and start listener on port 9999
 t = logging.config.listen(9999)

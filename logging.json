@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "common_formatter": {
+      "()": "logging.Formatter",
+      "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s - %(pathname)s"
+    }
+  },
+  "filters": {
+    "require_debug_false": {
+      "()": "lab.logging_server_and_client.gen_logging_config.RequireDebugFalse"
+    },
+    "require_debug_true": {
+      "()": "lab.logging_server_and_client.gen_logging_config.RequireDebugTrue"
+    },
+    "normal": {
+      "()": "lab.logging_server_and_client.gen_logging_config.NormalFilter"
+    },
+    "abnormal": {
+      "()": "lab.logging_server_and_client.gen_logging_config.AbnormalFilter"
+    }
+  },
+  "handlers": {
+    "console": {
+      "level": "DEBUG",
+      "filters": [
+        "require_debug_true"
+      ],
+      "class": "logging.StreamHandler",
+      "formatter": "common_formatter"
+    },
+    "a.normal": {
+      "level": "DEBUG",
+      "filters": [
+        "normal"
+      ],
+      "class": "logging.handlers.TimedRotatingFileHandler",
+      "when": "MIDNIGHT",
+      "filename": "/var/log/collectors/collectors/a/a.log",
+      "formatter": "common_formatter"
+    },
+    "a.abnormal": {
+      "level": "ERROR",
+      "filters": [
+        "abnormal"
+      ],
+      "class": "logging.handlers.TimedRotatingFileHandler",
+      "when": "MIDNIGHT",
+      "filename": "/var/log/collectors/collectors/a/a.error.log",
+      "formatter": "common_formatter"
+    },
+    "a.b.normal": {
+      "level": "DEBUG",
+      "filters": [
+        "normal"
+      ],
+      "class": "logging.handlers.TimedRotatingFileHandler",
+      "when": "MIDNIGHT",
+      "filename": "/var/log/collectors/collectors/a.b/a.b.log",
+      "formatter": "common_formatter"
+    },
+    "a.b.abnormal": {
+      "level": "ERROR",
+      "filters": [
+        "abnormal"
+      ],
+      "class": "logging.handlers.TimedRotatingFileHandler",
+      "when": "MIDNIGHT",
+      "filename": "/var/log/collectors/collectors/a.b/a.b.error.log",
+      "formatter": "common_formatter"
+    },
+    "a.c.normal": {
+      "level": "DEBUG",
+      "filters": [
+        "normal"
+      ],
+      "class": "logging.handlers.TimedRotatingFileHandler",
+      "when": "MIDNIGHT",
+      "filename": "/var/log/collectors/collectors/a.c/a.c.log",
+      "formatter": "common_formatter"
+    },
+    "a.c.abnormal": {
+      "level": "ERROR",
+      "filters": [
+        "abnormal"
+      ],
+      "class": "logging.handlers.TimedRotatingFileHandler",
+      "when": "MIDNIGHT",
+      "filename": "/var/log/collectors/collectors/a.c/a.c.error.log",
+      "formatter": "common_formatter"
+    },
+    "client": {
+      "level": "DEBUG",
+      "class": "logging.handlers.SocketHandler",
+      "host": "localhost",
+      "port": "9020"
+    }
+  },
+  "loggers": {
+    "a": {
+      "handlers": [
+        "a.normal",
+        "a.abnormal"
+      ],
+      "level": "DEBUG",
+      "disabled": true
+    },
+    "a.b": {
+      "handlers": [
+        "a.b.normal",
+        "a.b.abnormal"
+      ],
+      "level": "DEBUG",
+      "disabled": true
+    },
+    "a.c": {
+      "handlers": [
+        "a.c.normal",
+        "a.c.abnormal"
+      ],
+      "level": "DEBUG",
+      "disabled": true
+    },
+    "": {
+      "handlers": [
+        "console",
+        "client"
+      ],
+      "level": "DEBUG"
+    }
+  }
+}

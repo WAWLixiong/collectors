@@ -15,6 +15,10 @@ import time
 def get_html(i):
     # print('get html {}'.format(i))
     time.sleep(i)
+    if i == 3:
+        # 某个线程报错，整个线程池就会退出
+        print(' i am 3')
+        raise
     return i
 
 def execute():
